@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toolbar" type="id" />
+    <item name="textView3" type="id" />
+    <item name="txt_email" type="id" />
+    <item name="txt_your_name" type="id" />
+    <item name="txt_conformPassWord" type="id" />
+    <item name="imageView" type="id" />
+</resources>

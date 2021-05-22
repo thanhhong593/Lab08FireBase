@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "106357164145",
+    "project_id": "lab08firebase",
+    "storage_bucket": "lab08firebase.appspot.com"
+  },
+
+
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106357164145:android:20b95416f67ef5258a73d0",
+        "android_client_info": {
+          "package_name": "com.example.lab_08_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106357164145-ehahtu9tpf1v742b9bpa6ke2hp1i8prg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm147DGQZGcOIWF75_Brsh4NN1kW1sjjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106357164145-ehahtu9tpf1v742b9bpa6ke2hp1i8prg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
